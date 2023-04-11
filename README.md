@@ -1,0 +1,1 @@
+AI model for drone to detect people from an aerial POV
